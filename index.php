@@ -16,6 +16,7 @@ $req = mysql_query($sql);
 </head>
 <body>
 
+
     <div class="wrap">
 
     	<h1>SISTEMA DE ENCUESTA</h1>
